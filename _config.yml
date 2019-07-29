@@ -80,10 +80,11 @@ analytics:
 author:
   name             : "Mikaela Angelina Uy"
   avatar           : "mika_photo.jpeg"
-  bio              : |
-                      Incoming PhD Student
-                      Computer Science Department            
-                      Stanford University
+  bio              : 'Incoming PhD Student
+
+                      Computer Science Department 
+                                 
+                      Stanford University'
   location         : "Manila, Philippines"
   employer         :
   googlescholar    : 
