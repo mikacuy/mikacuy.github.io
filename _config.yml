@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Mikaela Angelina Uy"
-  avatar           : "profile.png"
+  avatar           : "mika_photo.jpeg"
   bio              : "Incoming PhD student, Stanford University"
   location         : "Manila, Philippines"
   employer         :
@@ -97,8 +97,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : ""
+  linkedin         : "mikacuy"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
